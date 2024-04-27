@@ -1,8 +1,4 @@
-CONSTITUENCY PARSING
+### How to run
+```python3 main.py```
 
-Thông tin về cú pháp đóng một vai trò quan trọng trong nhiều ứng dụng như dịch máy, trích xuất thông tin, trả lời câu hỏi, v.v. Từ năm 2015 trở đi, các mô hình phân tích dựa trên học sâu đã mang lại những thành công mới cho vấn đề này, nhưng chủ yếu là đối với các ngôn ngữ phổ biến như tiếng Anh và tiếng Trung.
-Trong bài này, nhóm sẽ trình bày về Vietnamese Constituency Parsing Tree, nhằm giúp cho mọi người có thể hiểu rõ hơn về cấu trúc cũng như ngữ pháp của tiếng Việt:
-
-- Input: là một câu, ví dụ như "Nam làm bài tập."
-
-- Output: là một cây cú pháp có dạng: (S (NP (N Nam)) (VP (V làm) (NP (N bài_tập))))
+Tweets dataset token from https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset?fbclid=IwZXh0bgNhZW0CMTAAAR3HVud_Px3H4L7l8BohIFXCg5RanEnNHleKJN3DZNNKgGXUyz16GPK95WU_aem_AUncCS4L002V3RY3Ps0NVNcX05ayPq3lsf47-OZDzU0fuN2uqftPs4h54fsCC07aokdN7x3PwVV6Lv0SlZl0Zo7d
